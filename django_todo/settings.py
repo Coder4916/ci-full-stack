@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-coder4916-cifullstack-7lzmv4bc84y.ws-eu110.gitpod.io'
+    'coder4916-django-todo-app-db2de6e9c2b5.herokuapp.com'
 ]
 
 
